@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://unpkg.com/mdui@2.0.1/mdui.css">
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+</head>
+<body class="mdui-appbar-background-color">
+<script src="https://unpkg.com/mdui@2.0.1/mdui.global.js"></script>
+
+<div class="mdui-container">
+    <h1 class="mdui-typo-display-3 mdui-center">Welcome to Xiwangly's Redirect Page</h1>
+    <p class="mdui-typo-body-1 mdui-center">You will be automatically redirected to my blog:</p>
+    <a href="https://www.xiwangly.top/sky.html" class="mdui-btn mdui-btn-raised mdui-ripple mdui-center">Manually Redirect</a>
+</div>
+
+<script>
+    // Automatic redirection
+    setTimeout(function() {
+        window.location.href = "https://www.xiwangly.top/sky.html";
+    }, 5000); // Redirect after 5 seconds
+</script>
+</body>
+</html>
