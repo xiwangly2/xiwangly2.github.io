@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-49eca694","path":"/en-US/sky/","title":"Default Page","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1698499981000,"contributors":[{"name":"xiwangly2","email":"59991942+xiwangly2@users.noreply.github.com","commits":1}]},"filePathRelative":"en-US/sky/README.md"}');export{e as data};

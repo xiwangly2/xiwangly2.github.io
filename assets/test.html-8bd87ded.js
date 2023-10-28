@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-aab0103e","path":"/en-US/test.html","title":"页面的标题","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"页面的标题","description":"页面的描述"},"headers":[],"git":{"updatedTime":1698499981000,"contributors":[{"name":"xiwangly2","email":"59991942+xiwangly2@users.noreply.github.com","commits":1}]},"filePathRelative":"en-US/test.md"}');export{t as data};
